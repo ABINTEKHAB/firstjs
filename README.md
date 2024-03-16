@@ -1,0 +1,2 @@
+# firstjs
+java script class
